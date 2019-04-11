@@ -5,7 +5,7 @@
   "main": "src/main.js",
   "scripts": {
     "start": "node out/main.js",
-    "watch": "tsc --watch src/main.ts"
+    "watch": "tsc --watch"
   },
   "author": "",
   "license": "ISC",
